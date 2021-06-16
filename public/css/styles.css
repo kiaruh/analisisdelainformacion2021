@@ -77,6 +77,13 @@ p {
     color: gainsboro;
     text-decoration: underline;
 }
+h1{
+    text-align: center;
+}
+
+.textointro {
+    font-size: 1.5rem;
+}
 
 @keyframes fadeInUp {
     to {
